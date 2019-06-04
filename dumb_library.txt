@@ -22,3 +22,6 @@ Wyn-Price (wynprice999@gmail.com) @ 39d5011
 Wyn-Price (wynprice999@gmail.com) @ 28e6dd9
     Add build number too
 
+Wyn-Price (wynprice999@gmail.com) @ 2056733
+    changed variable names and added description
+
