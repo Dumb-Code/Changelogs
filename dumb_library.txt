@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 57531ec
+    Better discord webhook
+
 Wyn-Price (wynprice999@gmail.com) @ c7a8418
     Fixed enviroment vars not getting called correctly and added commit description
 
