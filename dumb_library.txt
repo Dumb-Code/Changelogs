@@ -1,0 +1,3 @@
+Wyn-Price (wynprice999@gmail.com) @ 34487e3
+    Added new changelog system
+
