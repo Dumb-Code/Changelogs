@@ -4,3 +4,6 @@ Wyn-Price (wynprice999@gmail.com) @ 828dd1a
 Wyn-Price (wynprice999@gmail.com) @ d4a3459
     fixed variable being named different to what it actually is
 
+Wyn-Price (wynprice999@gmail.com) @ 28220de
+    Too long hash
+
