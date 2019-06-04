@@ -1,0 +1,3 @@
+Wyn-Price (wynprice999@gmail.com) @ 828dd1a
+    better changelog handleing ?
+
