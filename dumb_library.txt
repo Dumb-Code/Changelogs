@@ -7,3 +7,6 @@ Wyn-Price (wynprice999@gmail.com) @ d4a3459
 Wyn-Price (wynprice999@gmail.com) @ 28220de
     Too long hash
 
+Wyn-Price (wynprice999@gmail.com) @ 895aaef
+    Cleanup code and change the way version is set
+
