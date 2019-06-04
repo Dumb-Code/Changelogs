@@ -1,3 +1,6 @@
 Wyn-Price (wynprice999@gmail.com) @ 1c39e2610448e6e33493160e91ceeae4047db715
     Update .travis.yml
 
+Wyn-Price (wynprice999@gmail.com) @ 950b84ce7266476b246e792caef8474dcb9a42d9
+    Update .travis.yml
+
