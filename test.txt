@@ -1,2 +1,0 @@
-Travis CI (travis@travis-ci.org) @ 419bcaab37fb2bc2332f7e24e1fb36f368216ce9\n
-    Uploaded files\n\n
