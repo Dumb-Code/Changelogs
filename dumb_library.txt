@@ -1,3 +1,6 @@
+COMMITTER_NAME2 (COMMITTER_EMAIL) @ COMMIT_HASH
+    TRAVIS_COMMIT_MESSAGE
+
 Wyn-Price (wynprice999@gmail.com) @ 828dd1a
     better changelog handleing ?
 
@@ -24,4 +27,3 @@ Wyn-Price (wynprice999@gmail.com) @ 28e6dd9
 
 Wyn-Price (wynprice999@gmail.com) @ 2056733
     changed variable names and added description
-
