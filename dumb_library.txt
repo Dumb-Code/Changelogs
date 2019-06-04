@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ c7a8418
+    Fixed enviroment vars not getting called correctly and added commit description
+
 COMMITTER_NAME2 (COMMITTER_EMAIL) @ COMMIT_HASH
     TRAVIS_COMMIT_MESSAGE
 
