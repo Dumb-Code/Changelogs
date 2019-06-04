@@ -7,3 +7,6 @@ Wyn-Price (wynprice999@gmail.com) @ 950b84ce7266476b246e792caef8474dcb9a42d9
 Wyn-Price (wynprice999@gmail.com) @ 
     Smaller commit hash
 
+Wyn-Price (wynprice999@gmail.com) @ c76dc67
+    Fixed small commit hash not showing
+
