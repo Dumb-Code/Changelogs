@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 6bf7bef
+    Tidyed up code lots and documented classes
+
 Wyn-Price (wynprice999@gmail.com) @ ecd8668
     Attempted solution at preventing travis from running gradlew assemble
 
