@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 8256441
+    Added tabula model handling
+
 Wyn-Price (wynprice999@gmail.com) @ 20b98b6
     Removed llibs tabula model dependencies
 
