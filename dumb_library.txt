@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ ecd8668
+    Attempted solution at preventing travis from running gradlew assemble
+
 Wyn-Price (wynprice999@gmail.com) @ 787d36d
     Revert "Testing configuration to see if this works"
 
