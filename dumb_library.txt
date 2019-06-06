@@ -1,4 +1,7 @@
+Wyn-Price (wynprice999@gmail.com) @ 787d36d
+    Revert "Testing configuration to see if this works"
+
+This reverts commit ac6aa8800f7ffdf1246178257f37c8b3d2e8e9fd.
+
 Wyn-Price (wynprice999@gmail.com) @ 646d0e3
     Moved travis back to how it was, change javadoc
-
-
