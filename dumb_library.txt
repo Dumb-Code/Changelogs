@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ a4d5aa1
+    More movement and updating
+
 Wyn-Price (wynprice999@gmail.com) @ 45c7db8
     Fixed model loader and documented more
 
