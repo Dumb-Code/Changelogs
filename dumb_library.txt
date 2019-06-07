@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 45c7db8
+    Fixed model loader and documented more
+
 Wyn-Price (wynprice999@gmail.com) @ 9b86cfb
     We don't need all these builds
 
