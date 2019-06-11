@@ -1,3 +1,6 @@
+Jack Goldsworth (JackGoldsworth@gmail.com) @ 89e5988
+    Maybe this will fix?
+
 Jack Goldsworth (JackGoldsworth@gmail.com) @ d69206d
     Retry with new credentials.
 
