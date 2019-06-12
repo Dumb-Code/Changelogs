@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 5e4e2df
+    Attempted fix on secure vars
+
 Jack Goldsworth (noreply@github.com) @ 2d2a824
     Update README.md
 
