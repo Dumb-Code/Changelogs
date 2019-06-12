@@ -1,6 +1,9 @@
 Wyn-Price (wynprice999@gmail.com) @ 6610fc2
     More sonarqube complaining and fixed issue with poses not being loaded correctly
 
+Wyn-Price (wynprice999@gmail.com) @ 6610fc2
+    More sonarqube complaining and fixed issue with poses not being loaded correctly
+
 Wyn-Price (wynprice999@gmail.com) @ b1ef114
     Sorted out a bunch of sonarqube complaints
 
