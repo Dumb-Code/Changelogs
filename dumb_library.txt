@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ a2cd666
+    If this doesn't send a webhook i cry
+
 Wyn-Price (wynprice999@gmail.com) @ 105bc2c
     Fixed more sonarqube stuff
 
