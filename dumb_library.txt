@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 5f4d6c9
+    Attempted better solution for sonarqube
+
 Wyn-Price (wynprice999@gmail.com) @ 5e4e2df
     Attempted fix on secure vars
 
