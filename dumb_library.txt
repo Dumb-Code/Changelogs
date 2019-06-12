@@ -1,6 +1,9 @@
 Wyn-Price (wynprice999@gmail.com) @ b1ef114
     Sorted out a bunch of sonarqube complaints
 
+Wyn-Price (wynprice999@gmail.com) @ b1ef114
+    Sorted out a bunch of sonarqube complaints
+
 Wyn-Price (wynprice999@gmail.com) @ 5f4d6c9
     Attempted better solution for sonarqube
 
