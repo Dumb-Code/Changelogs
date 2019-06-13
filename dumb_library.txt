@@ -1,3 +1,6 @@
+Jack Goldsworth (JackGoldsworth@gmail.com) @ 9598355
+    Reformatted and optimized imports
+
 Jack Goldsworth (JackGoldsworth@gmail.com) @ f94de14
     Fixed some sonar issues.
 
