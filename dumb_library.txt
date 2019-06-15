@@ -1,6 +1,9 @@
 Wyn-Price (wynprice999@gmail.com) @ 756ed73
     maybe this will fix
 
+Wyn-Price (wynprice999@gmail.com) @ 756ed73
+    maybe this will fix
+
 Wyn-Price (wynprice999@gmail.com) @ 87858c0
     Merge branch 'master' of https://github.com/Dumb-Code/DumbLibrary
 
