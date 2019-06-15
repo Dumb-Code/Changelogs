@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 9646a24
+    Redid animation system and added ecs system
+
 Wyn-Price (wynprice999@gmail.com) @ f19a14e
     Lots of bug fixes and issues and added new animation loading system
 
