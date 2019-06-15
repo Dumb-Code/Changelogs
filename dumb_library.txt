@@ -1,3 +1,6 @@
+Jack Goldsworth (JackGoldsworth@gmail.com) @ 9162313
+    Merge branch 'master' of https://github.com/Dumb-Code/DumbLibrary
+
 Wyn-Price (wynprice999@gmail.com) @ 9646a24
     Redid animation system and added ecs system
 
