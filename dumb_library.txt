@@ -1,3 +1,6 @@
+Wyn Price (noreply@github.com) @ 760ff45
+    Update to new curse-gradle with better file id getting
+
 Jack Goldsworth (JackGoldsworth@gmail.com) @ 9162313
     Merge branch 'master' of https://github.com/Dumb-Code/DumbLibrary
 
