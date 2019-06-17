@@ -1,3 +1,6 @@
+Wyn Price (noreply@github.com) @ 27618c0
+    Fetch the unshallow git
+
 Wyn Price (noreply@github.com) @ 760ff45
     Update to new curse-gradle with better file id getting
 
