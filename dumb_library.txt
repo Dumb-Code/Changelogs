@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 78416f3
+    Model fixes and finally transitioned to directory based animations
+
 Wyn Price (noreply@github.com) @ 27618c0
     Fetch the unshallow git
 
