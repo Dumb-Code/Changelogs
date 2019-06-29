@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 99a62fe
+    Fixed lots of small issues and cleaned up lots of code. Added item drop system
+
 Wyn-Price (wynprice999@gmail.com) @ c4e6810
     Cleaned up code and fixed lots of issues
 
