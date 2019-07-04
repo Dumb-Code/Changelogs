@@ -1,3 +1,6 @@
+Jack Goldsworth (noreply@github.com) @ bed0d0d
+    Fixed link.
+
 Jack Goldsworth (noreply@github.com) @ 68235e1
     Update README.md
 
