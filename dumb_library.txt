@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ e758d7e
+    Added speed tracking components
+
 Wyn-Price (wynprice999@gmail.com) @ 8ac11de
     Finished up animation api
 
