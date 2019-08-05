@@ -4,6 +4,9 @@ Wyn-Price (wynprice999@gmail.com) @ 03d997d
 Wyn-Price (wynprice999@gmail.com) @ 03d997d
     Added scroll boxes and fixed up dropdown boxs to use new scroll boxes
 
+Wyn-Price (wynprice999@gmail.com) @ 03d997d
+    Added scroll boxes and fixed up dropdown boxs to use new scroll boxes
+
 Wyn-Price (wynprice999@gmail.com) @ 56b2f11
     Redid herd ai to not be stupid
 
