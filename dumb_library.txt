@@ -1,3 +1,6 @@
+Jack Goldsworth (JackGoldsworth@gmail.com) @ ed97ca6
+    Moving nested classes into there own file.
+
 Wyn-Price (wynprice999@gmail.com) @ 03d997d
     Added scroll boxes and fixed up dropdown boxs to use new scroll boxes
 
