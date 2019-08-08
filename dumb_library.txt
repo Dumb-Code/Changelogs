@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ e534ac1
+    Fixed npe error
+
 Wyn-Price (wynprice999@gmail.com) @ 7c30e66
     Fixed saving issues with herds
 
