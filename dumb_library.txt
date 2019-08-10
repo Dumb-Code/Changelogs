@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 32596e8
+    Re-did some component api stuff to make way for blockstate components. Also did more docs
+
 Wyn-Price (wynprice999@gmail.com) @ e534ac1
     Fixed npe error
 
