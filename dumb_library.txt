@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 6131fdd
+    Minor changes to entity systems and added more plant functionality
+
 Wyn-Price (wynprice999@gmail.com) @ 26e0c81
     Refractor code dumblibrary.server.entity -> dumblibrary.server.ecs
 
