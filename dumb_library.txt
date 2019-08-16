@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ ca7e5a0
+    Updated travis error message
+
 Wyn Price (noreply@github.com) @ 46e6255
     Fixed notify if error task
 
