@@ -1,3 +1,6 @@
+Wyn Price (noreply@github.com) @ 46e6255
+    Fixed notify if error task
+
 Wyn-Price (wynprice999@gmail.com) @ f9deb5e
     Added IOCollectors
 
