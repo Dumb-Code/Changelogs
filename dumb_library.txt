@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 1d0815f
+    Redid blockstate ecs to allow for multiple properties
+
 Wyn-Price (wynprice999@gmail.com) @ 42089ea
     Fixed compile warnings
 
