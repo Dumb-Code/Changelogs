@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ edb6c94
+    Redid entity components to allow for storage saving at entity serialization
+
 Wyn-Price (wynprice999@gmail.com) @ 1d0815f
     Redid blockstate ecs to allow for multiple properties
 
