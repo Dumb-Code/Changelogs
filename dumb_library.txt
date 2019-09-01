@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 7dc71d0
+    Fixed mirror texture flag being ignored
+
 Wyn-Price (wynprice999@gmail.com) @ 40504b9
     Fixed issue with matrix stack depth
 
