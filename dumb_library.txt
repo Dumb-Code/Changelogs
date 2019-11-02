@@ -1,3 +1,6 @@
+Wyn (wynprice999@gmailc.om) @ cd8f17b
+    Added dna based layer colouring. Cleaned up code.
+
 Wyn-Price (wynprice999@gmail.com) @ c7fc95a
     Genetics backend
 
