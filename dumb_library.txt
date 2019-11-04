@@ -1,3 +1,6 @@
+Wyn (wynprice999@gmailc.om) @ ecf3b1f
+    Moved more things to the same texturemap, as to vastly improve performance. Changed the way dna is stored to alow for infinate interpretation.
+
 Wyn (wynprice999@gmailc.om) @ cd8f17b
     Added dna based layer colouring. Cleaned up code.
 
