@@ -1,3 +1,6 @@
+Wyn (wynprice999@gmailc.om) @ e475f77
+    Fixed forgotten static layers
+
 Wyn (wynprice999@gmailc.om) @ 3608638
     Added more layer stuff (flattened layers, blinking)
 
