@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 8788e07
+    Moved filesystem paths to be a callback rather than a return value.
+
 Wyn-Price (wynprice999@gmail.com) @ c528766
     Cleaned up code and added speed genetic type
 
