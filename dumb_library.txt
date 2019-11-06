@@ -1,3 +1,6 @@
+Wyn (wynprice999@gmailc.om) @ 3608638
+    Added more layer stuff (flattened layers, blinking)
+
 Wyn (wynprice999@gmailc.om) @ ecf3b1f
     Moved more things to the same texturemap, as to vastly improve performance. Changed the way dna is stored to alow for infinate interpretation.
 
