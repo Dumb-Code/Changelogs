@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 62a1da1
+    Fixed blending issues
+
 Wyn-Price (wynprice999@gmail.com) @ 5ffadd2
     Update build.gradle
 
