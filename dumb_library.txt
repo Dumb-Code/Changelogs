@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ fcbbcab
+    Don't use the Plugins DSL
+
 Wyn-Price (wynprice999@gmail.com) @ 8788e07
     Moved filesystem paths to be a callback rather than a return value.
 
