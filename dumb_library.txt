@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 703d08b
+    Removed obselete method
+
 Wyn-Price (wynprice999@gmail.com) @ 2a8d500
     Fixed lots of herd issues.
 
