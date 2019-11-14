@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 2a8d500
+    Fixed lots of herd issues.
+
 Wyn-Price (wynprice999@gmail.com) @ 004e02e
     Fix deviation error
 
