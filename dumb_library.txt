@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ d736e57
+    Removed logging and fixed weird optifine issues
+
 Wyn-Price (wynprice999@gmail.com) @ 1507dcf
     Added basic breeding and families
 
