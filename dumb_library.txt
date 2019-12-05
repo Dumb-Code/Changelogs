@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 293ac13
+    Removed `construct` in favour for `constructTo`. Long live `construct`
+
 Wyn-Price (wynprice999@gmail.com) @ ed86339
     Don't let children breed yes
 
