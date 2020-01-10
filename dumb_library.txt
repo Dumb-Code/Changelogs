@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ f359922
+    added ceilAwayZero
+
 Wyn-Price (wynprice999@gmail.com) @ 9c984bf
     Finished up eating ai
 
