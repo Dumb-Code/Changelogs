@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 92ad4f2
+    Added more rendering tools + utilities
+
 Wyn-Price (wynprice999@gmail.com) @ b8dadb4
     Added `inBetween` helper method
 
