@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 57d11fd
+    Redid blinking system and seperated field modifieables
+
 Wyn-Price (wynprice999@gmail.com) @ 3b4e6ca
     Added nbt collector method
 
