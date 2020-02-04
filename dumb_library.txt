@@ -1,3 +1,6 @@
+Wyn Price (noreply@github.com) @ 411246b
+    Changed light equation
+
 Wyn-Price (wynprice999@gmail.com) @ 4632fed
     Added light based sleeping modifiers
 
