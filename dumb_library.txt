@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ c0970f6
+    Increased light affect modifiers
+
 Wyn-Price (wynprice999@gmail.com) @ 1f125be
     Optimized light sleeping equation
 
