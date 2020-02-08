@@ -1,3 +1,8 @@
+Wyn-Price (wynprice999@gmail.com) @ 8dd2612
+    Fixed issue with time jumping and dinosaurs sleeping
+
+Essentiall when a player sleeps the world time jumps but the amount of ticks doesn't
+
 Wyn-Price (wynprice999@gmail.com) @ a956802
     Removed entity systems enums
 
