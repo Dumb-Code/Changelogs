@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ be0e08b
+    Redid sleeping system to be less complicated and confusing
+
 Wyn-Price (wynprice999@gmail.com) @ 8dd2612
     Fixed issue with time jumping and dinosaurs sleeping
 
