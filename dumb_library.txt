@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 9d3bd17
+    Made util methods public
+
 Wyn-Price (wynprice999@gmail.com) @ be0e08b
     Redid sleeping system to be less complicated and confusing
 
