@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 6f3a0ac
+    Added shaders code to directly run shaders from glslsandbox.com
+
 Wyn-Price (wynprice999@gmail.com) @ 9d3bd17
     Made util methods public
 
