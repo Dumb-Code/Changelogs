@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ d9337bb
+    Fixed precision issues and dispose of shadermanager + framebuffer
+
 Wyn-Price (wynprice999@gmail.com) @ 6f3a0ac
     Added shaders code to directly run shaders from glslsandbox.com
 
