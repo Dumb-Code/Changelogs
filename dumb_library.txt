@@ -1,3 +1,6 @@
+Wyn Price (noreply@github.com) @ f5a0fcc
+    Fixed issue with surfaceSize resolution
+
 Wyn-Price (wynprice999@gmail.com) @ d9337bb
     Fixed precision issues and dispose of shadermanager + framebuffer
 
