@@ -1,3 +1,6 @@
+Wyn-Price (wynprice999@gmail.com) @ 9fe4b6d
+    Redid shader json managing to reduce logspam
+
 Wyn-Price (wynprice999@gmail.com) @ 86415a1
     Merge branch 'master' of https://github.com/Dumb-Code/DumbLibrary
 
