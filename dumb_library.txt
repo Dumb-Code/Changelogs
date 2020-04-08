@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ 748dc33
+    Added more tabula functions and added split networking system
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ 65acad6
     Moved taxidermy stuff to dumb lib
 
