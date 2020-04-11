@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ 440d498
+    Fixed issue with split network handler
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ d8181a1
     Fixed lang file
 
