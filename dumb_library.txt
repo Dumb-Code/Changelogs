@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ c7ce81e
+    Gui scroll box entries should be able to not be selected
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ 440d498
     Fixed issue with split network handler
 
