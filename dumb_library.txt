@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ 8c1b327
+    Fixed math utils mixing up parameters
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ 4dea873
     Fixed issue where sliders wern't being updates properly
 
