@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ f07c894
+    Better handling of stopping all channel animations
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ c008296
     Updated publishMod url to match new curseforge site
 
