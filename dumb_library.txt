@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ 2f9de8c
+    Refactored lots of animation stuff to be it's own class and added MUCH easier animation access. Also removed animation registry
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ 8c1b327
     Fixed math utils mixing up parameters
 
