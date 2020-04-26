@@ -1,4 +1,5 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ c008296
+    Updated publishMod url to match new curseforge site
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ 43d86b6
     Added base time fallback to 5 ticks and added createEntry method for Animation->AnimationEntry
-
-
