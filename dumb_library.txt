@@ -1,0 +1,4 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ e1da2ce
+    Removed animation dependency on it being an entity
+
+
