@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ a8a114d
+    Added ensure trailing zeros
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ ab04d18
     Better syncing to client
 
