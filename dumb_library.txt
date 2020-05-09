@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ bf71f99
+    Fixed method changes
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ d9c08c2
     Cleaned up code and added more genetic types
 
