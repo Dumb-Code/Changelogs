@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ 82cd18c
+    Added better helper method for tinting
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ c703b64
     Added multple tinting for layer tinting
 
