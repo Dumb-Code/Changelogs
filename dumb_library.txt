@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ f4e6179
+    Added more gui tools and redid taxidermy stuff to include rotation point
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ 0729b79
     Merge
 
