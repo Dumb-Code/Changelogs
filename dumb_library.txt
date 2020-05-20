@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ f450758
+    Added stencil stack and more functionality to scroll boxes
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ aab0b55
     Fixed number entry text issue
 
