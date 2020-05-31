@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ c409685
+    Added more collector utils
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ 6e2a28c
     Fixed small modeling loading issue andded support for rendering layers on different block layers
 
