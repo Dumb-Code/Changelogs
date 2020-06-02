@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ 43ceba6
+    Fixed javadoc 2
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ c23e8a6
     Fixed javadoc
 
