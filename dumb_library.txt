@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ 5800229
+    If there is no render layer set, default to solid
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ c409685
     Added more collector utils
 
