@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ 0d404f3
+    Fixed visual tooltip issue
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ 8cfed9a
     Fixed bound crash
 
