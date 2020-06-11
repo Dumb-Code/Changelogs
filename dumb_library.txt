@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ aa80a3e
+    Added multiple idle animations
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ 518e878
     Fixed issue with dinosaur moving while sitting
 
