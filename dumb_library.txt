@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ 2b75630
+    Fixed keyframe compiler to work on dca v3.0 and higher
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ 4ffe984
     Lots of bug fixes and general ai improvements
 
