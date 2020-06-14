@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ 4fdabeb
+    Added checking crash script
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ 408a425
     Create check_crash.sh
 
