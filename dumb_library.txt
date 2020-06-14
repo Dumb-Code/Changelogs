@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ a092eb6
+    Removed crashing code
+
 wynprice999@gmail.com (wynprice999@gmail.com) @ 4fdabeb
     Added checking crash script
 
