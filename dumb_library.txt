@@ -1,3 +1,6 @@
+Brandon Davis (noreply@github.com) @ 4de6d2e
+    Update LICENSE.md
+
 Brandon Davis (noreply@github.com) @ e9bb9c7
     Update README.md
 
