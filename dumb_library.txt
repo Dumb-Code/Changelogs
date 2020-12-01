@@ -1,3 +1,6 @@
+Wyn Price (wynprice999@gmail.com) @ d1b1d19
+    Added interface gathering on storages and added ShowcasingTextureStorage interface
+
 Noah (rodentman87@gmail.com) @ 666a6ea
     Add option to disable default cell rendering
 
