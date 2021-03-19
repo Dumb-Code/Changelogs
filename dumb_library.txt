@@ -1,3 +1,6 @@
+wynprice999@gmail.com (wynprice999@gmail.com) @ 2cabedb
+    Redid entity layers to be better optimized and to more customizable
+
 Wyn Price (wynprice999@gmail.com) @ d1b1d19
     Added interface gathering on storages and added ShowcasingTextureStorage interface
 
