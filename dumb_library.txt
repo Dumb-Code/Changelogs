@@ -1,3 +1,6 @@
+Wyn Price (wynprice999@gmail.com) @ 3063f85
+    Added studio jar
+
 Wyn Price (wynprice999@gmail.com) @ 38cba86
     More gui porting stuff
 
