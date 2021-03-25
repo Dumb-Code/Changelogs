@@ -1,3 +1,6 @@
+Wyn Price (wynprice999@gmail.com) @ 8a623da
+    Fixed custom model loading and redid model commands to be not bad
+
 Wyn Price (wynprice999@gmail.com) @ 17199a5
     Ported entity model and block model loading to use dcm
 
