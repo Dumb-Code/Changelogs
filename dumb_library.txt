@@ -1,3 +1,6 @@
+Wyn Price (wynprice999@gmail.com) @ 74da799
+    Re-added `renderBoxes`
+
 Wyn Price (wynprice999@gmail.com) @ 1439e4f
     Finished all client porting
 
