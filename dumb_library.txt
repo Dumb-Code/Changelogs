@@ -1,3 +1,6 @@
+Wyn Price (wynprice999@gmail.com) @ b6fa152
+    Delete old animation code.
+
 Wyn Price (wynprice999@gmail.com) @ 74da799
     Re-added `renderBoxes`
 
