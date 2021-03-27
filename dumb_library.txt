@@ -1,3 +1,6 @@
+Wyn Price (wynprice999@gmail.com) @ 2cb2754
+    Update GuiModelPoseEdit.java
+
 Wyn Price (wynprice999@gmail.com) @ 7915fd4
     Update studio_jar
 
