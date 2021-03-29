@@ -1,3 +1,6 @@
+Wyn Price (wynprice999@gmail.com) @ 08aed3e
+    Port lang files
+
 Wyn Price (wynprice999@gmail.com) @ 4123b14
     Fixes and stuff
 
