@@ -1,3 +1,6 @@
+Wyn Price (wynprice999@gmail.com) @ ef53236
+    Update TaxidermyContainer.java
+
 Wyn Price (wynprice999@gmail.com) @ 76a1504
     More secure taxidermy block
 
