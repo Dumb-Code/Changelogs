@@ -1,3 +1,6 @@
+Wyn Price (wynprice999@gmail.com) @ d1168a3
+    Update ModelMissing.java
+
 Wyn Price (wynprice999@gmail.com) @ dfc6934
     Update S2CUpdateSkeletalBuilder.java
 
