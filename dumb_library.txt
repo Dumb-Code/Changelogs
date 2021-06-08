@@ -1,3 +1,6 @@
+Wyn Price (wynprice999@gmail.com) @ 49fbeff
+    Fix registry stuff
+
 Wyn Price (wynprice999@gmail.com) @ 6b48287
     Some changes to registry stuff
 
