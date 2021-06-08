@@ -1,3 +1,6 @@
+Wyn Price (wynprice999@gmail.com) @ 41ca476
+    Fix some rendering stuff
+
 Wyn Price (wynprice999@gmail.com) @ 49fbeff
     Fix registry stuff
 
