@@ -1,3 +1,6 @@
+Wyn Price (wynprice999@gmail.com) @ c0582ce
+    Fix some model stuff
+
 Wyn Price (wynprice999@gmail.com) @ e6be9f7
     Attempted fix at model loading
 
